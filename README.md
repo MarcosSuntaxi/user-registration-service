@@ -28,9 +28,9 @@ This microservice allows registering new users in the system.
 
 ## Usage
 Send a POST request to the endpoint with the following body:
-```json
-{
-"username": "new_user",
-"email": "email@example.com",
-"password": "password123"
-}
+    ```json
+    {
+    "username": "new_user",
+    "email": "email@example.com",
+    "password": "password123"
+    }
